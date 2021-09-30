@@ -21,5 +21,10 @@
         "nodemon": "^1.17.3",
         "truffle": "5.0.2",
         "truffle-contract": "3.0.6"
+    },
+    "dependencies": {
+        "browser-sync": "^2.27.5",
+        "connect-logger": "^0.0.1",
+        "web3": "^0.20.6"
     }
 }
